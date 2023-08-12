@@ -1,0 +1,17 @@
+{
+  "name": "js-07",
+  "version": "1.0.0",
+  "description": "implement js-07",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Negar sotoodeh",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.197"
+  }
+}
