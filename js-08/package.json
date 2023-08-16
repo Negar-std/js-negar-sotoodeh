@@ -1,0 +1,17 @@
+{
+  "name": "js-08",
+  "version": "1.0.0",
+  "description": "implement js-08",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Negar Sotoodeh",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  },
+  "dependencies": {
+    "flowbite": "^1.8.1"
+  }
+}
