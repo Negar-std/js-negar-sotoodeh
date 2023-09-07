@@ -20,6 +20,10 @@ Run tsc watch
 Run tailwind
 
 ```bash
+  npm install -D tailwindcss
+```
+
+```bash
   npm run tailwind
 ```
 
