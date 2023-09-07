@@ -6,9 +6,9 @@ export type ContactProps = {
 
 }
 
-export type ContactsListType = ContactProps[];
-
 export type contactInfoType = {
     contactName : string;
     phoneNumber : string | number;
 }
+
+export type ContactsListType = ContactProps[];

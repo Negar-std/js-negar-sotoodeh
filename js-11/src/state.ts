@@ -1,3 +1,2 @@
-import {ContactsListType} from "./types"
-
+import { ContactsListType } from "./types";
 export const contactList: ContactsListType = [];

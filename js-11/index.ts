@@ -1,6 +1,5 @@
-import {showContactsButton, closeDrawerButton, submitButton, } from "./src/importer.js";
-import {showContactsDrawerHandler, closeContactsDrawerHandler, handleCreateContact} from "./src/events.js"
-
+import {closeDrawerButton,showContactsButton,submitButton} from "./src/importer.js"
+import {closeContactsDrawerHandler,handleCreateContact,showContactsDrawerHandler} from "./src/events.js"
 
 showContactsButton?.addEventListener("click", showContactsDrawerHandler);
 
